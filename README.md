@@ -72,7 +72,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/shsarv/Diabetes-prediction/issues/new/choose). Please include sample queries and their corresponding results.
 
 ### owner
-**Sarvesh Kumar Sharma**
+**Kuncha Bavitha**
 
 
 ### LICENSE
